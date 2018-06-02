@@ -74,6 +74,6 @@ or try https://github.com/XiphosResearch/exploits/tree/master/ElasticSearch
 
 #### Sources
 
-https://jordan-wright.com/blog/2015/03/08/elasticsearch-rce-vulnerability-cve-2015-1427/
-https://www.exploit-db.com/exploits/36337/
-https://www.exploit-db.com/exploits/36415/
+- https://jordan-wright.com/blog/2015/03/08/elasticsearch-rce-vulnerability-cve-2015-1427/
+- https://www.exploit-db.com/exploits/36337/
+- https://www.exploit-db.com/exploits/36415/
